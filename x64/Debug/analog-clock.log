@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(课程设计.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  analog-clock.cpp
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(29,11): warning C4101: “m”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(22,13): warning C4101: “nowTime”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(23,6): warning C4101: “hour”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(23,12): warning C4101: “min”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(21,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(23,17): warning C4101: “sec”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(20,9): warning C4101: “t”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(226,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(226,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(228,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(228,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(232,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(232,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(232,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(232,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(205,18): warning C4101: “y2”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(205,10): warning C4101: “y1”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(205,6): warning C4101: “x1”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(205,26): warning C4101: “y5”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(205,22): warning C4101: “x5”: 未引用的局部变量
+C:\Users\Silvia\Desktop\analog-clock\analog-clock\analog-clock.cpp(205,14): warning C4101: “x2”: 未引用的局部变量
+  analog-clock.vcxproj -> C:\Users\Silvia\Desktop\analog-clock\x64\Debug\analog-clock.exe
